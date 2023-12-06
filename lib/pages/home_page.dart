@@ -14,7 +14,9 @@ class HomePage extends StatelessWidget {
         body: Center(
           child: Container(
             child: Text("Welcome to Kiddo Rights"),
+            
           ),
+
         ),
 
         drawer: Drawer(),
